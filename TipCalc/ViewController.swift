@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet weak var billAmountTextField: UITextField!
+    @IBOutlet var billAmountTextField: UITextField!
     @IBOutlet weak var tipAmountLabel: UILabel!
     @IBOutlet weak var tipControl: UISegmentedControl!
     @IBOutlet weak var totalLabel: UILabel!
@@ -18,6 +18,7 @@ class ViewController: UIViewController {
     var currentValue : Int = 2
     var total: Double = 0.0
     var perPerson : Double = 0.0
+    
     
     @IBAction func splitTabSlider(_ sender: UISlider) {
         // get number of people spliting the bill
@@ -31,7 +32,9 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        billAmountTextField.keyboardType = UIKeyboardType.decimalPad
         // Do any additional setup after loading the view.
+       
     }
 
     
