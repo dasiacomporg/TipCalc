@@ -25,9 +25,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/iq0vCxD"  ><a href="//imgur.com/a/iq0vCxD">Tipper</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-<img src='https://imgur.com/a/iq0vCxD.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/iq0vCxD"  ><a href="//imgur.com/a/iq0vCxD">Tipper</a></blockquote>
 
 GIF created with [ezgif]https://ezgif.com).
 
