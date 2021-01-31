@@ -31,7 +31,7 @@ GIF created with [ezgif]https://ezgif.com).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Implementing the decial pad was simple, but there were glitches that wouldnt allow the keyboard to show om the simulation.
 
 ## License
 
